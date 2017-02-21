@@ -1,8 +1,9 @@
 # FruitWarriorMR
 
-Further instructions coming soon to [my website!](http://adinashanholtz.com)
+You can find step-by-step instructions to build this game from scratch on [my website!](http://adinashanholtz.com/fruitwarrior-mr-hololens-workshop/)
 
-For now you can download the project and open in Unity to play. 
+You can also download the project and open in Unity to play and learn from.
 
-Amazing fruit assets by the talented [Kat Park] (http://www.katalinapark.com)
-Bomb model from [TurboSquid] (https://www.turbosquid.com/FullPreview/Index.cfm/ID/1034107)
+Amazing fruit assets by the talented [Kat Park.] (http://www.katalinapark.com)
+
+Bomb model from [TurboSquid.] (https://www.turbosquid.com/FullPreview/Index.cfm/ID/1034107)
